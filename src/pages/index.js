@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
 
       <main className="self-center">
-        <h1 className="text-2xl font-bold text-gray-800">
+        <h1 className="text-2xl font-bold text-gray-800 bg-re">
           Hello World!
         </h1>
       </main>
